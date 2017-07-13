@@ -10,7 +10,7 @@ import org.junit.Test;
 
 import br.com.caelum.argentum.modelo.Negociacao;
 
-
+@Ignore
 public class LeitorXMLTest {
 
     @Test
