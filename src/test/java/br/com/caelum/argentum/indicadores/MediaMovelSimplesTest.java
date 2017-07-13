@@ -4,8 +4,11 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+import org.junit.Ignore;
+
 import br.com.caelum.argentum.modelo.SerieTemporal;
 
+@Ignore
 public class MediaMovelSimplesTest {
 
 	@Test
