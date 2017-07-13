@@ -29,6 +29,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 
 import org.junit.Ignore;
 
+@Ignore
 @RunWith(Arquillian.class)
 public class FiltraNegociacoesIT {
 
